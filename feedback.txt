@@ -1,0 +1,18 @@
+(2.0/2.0) - find shortest path from node to same node
+(2.0/2.0) - find shortest path in graph with single edge
+(2.0/2.0) - find shortest path as searchNode in small graph
+(2.0/2.0) - find shortest path in small graph
+(2.0/2.0) - NoSuchElementException if there is no path between nodes
+(2.0/2.0) - NoSuchElementException if node does not exist
+(3.0/3.0) - find shortest path as SearchNode
+(3.0/3.0) - find cost as SearchNode
+(4.0/4.0) - avoid re-visiting nodes
+(2.0/2.0) - find cost of path in large graph
+(2.0/2.0) - find path in large graph
+(2.0/2.0) - find cost of path in medium-sized graph
+(2.0/2.0) - find path in medium-sized graph
+(5.0/5.0) - code styling and comments
+(5.00/5.00) - tests submitted by Monday, Nov 13
+
+LATE PENALTY: -6.00
+TOTAL: 34.00 / 40
